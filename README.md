@@ -12,8 +12,11 @@ example: sh serverspeedercrack.sh 56:00:00:1E:BB:25 eth0 1
 
 ##How to use?
 `git clone https://github.com/HuanMeng0/ServerSpeederCrackScript.git`
+
 `cd ServerSpeederCrackScript`
+
 `sh serverspeedercrack.sh [YOUR_SERVER_MACADDR] [YOUR_SERVER_NIC_NAME] [MODE]`
+
 example: sh serverspeedercrack.sh 56:00:00:1E:BB:25 eth0 1
 
 ##Boot setting

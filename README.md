@@ -20,7 +20,7 @@ example: sh serverspeedercrack.sh 56:00:00:1E:BB:25 eth0 1
 example: sh serverspeedercrack.sh 56:00:00:1E:BB:25 eth0 1
 
 ##Boot setting
-` echo 'sh /root/ServerSpeederCrackScript/serverspeedercrack.sh [YOUR_SERVER_MACADDR] [YOUR_SERVER_NIC_NAME] 1' > /etc/rc.local`
+` echo 'sh /root/ServerSpeederCrackScript/serverspeedercrack.sh [YOUR_SERVER_MACADDR] [YOUR_SERVER_NIC_NAME] 1' >> /etc/rc.local`
 
 ##Acknowledgements:
 ServerSpeeder Team [Developers!]
